@@ -12,13 +12,15 @@ To get a local copy up and running follow these simple example steps.
 
 - Make sure you have node installed on your local machine.
 - Open your console.
-- Type the following "git clone git@github.com:tiagomarin/
-enumerable-exercise.git".
+- Type the following "git clone git@github.com:tiagomarin/enumerable-exercise.git".
 - Press ENTER to create your local clone.
+
+- Or download the [zip folder](https://github.com/tiagomarin/enumerable-exercise/archive/refs/heads/development.zip) and extract in your preferable folder
 
 ### Prerequisites
 
-Any code editor like Vscode or Vim.
+- Any code editor like Vscode or Vim.
+- Have Ruby installed. (follow [this](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md) to install it)
 
 ## Authors
 
